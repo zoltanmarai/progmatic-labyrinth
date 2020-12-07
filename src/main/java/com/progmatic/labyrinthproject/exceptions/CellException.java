@@ -10,6 +10,7 @@ public class CellException extends Exception {
     /**
      * Row index of the problematic cell.
      */
+
     private final int row;
     /**
      * Column index of the problematic cell.
